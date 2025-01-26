@@ -16,7 +16,7 @@ QA Engineer since 2020
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AQuAgenerale97)](https://github.com/AQuAgenerale97/github-readme-stats)
 
 ## Projects:
-- <a target="_blank" href="https://github.com/ponomarev-iv1986/tensor_demo_project.git">Демонстрационный проект по автотестированию UI интернет-магазина Online-Market </a>
+- <a target="_blank" href="https://github.com/AQuAgenerale97/ui_autotests_online_market">Демонстрационный проект по автотестированию UI интернет-магазина Online-Market </a>
 - <a target="_blank" href="https://github.com/AQuAgenerale97/api_autotests_Petstore">Демонстрационный проект по автотестированию API сервиса "Petstore"</a>
 
 ## Contacts:
