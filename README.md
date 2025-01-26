@@ -1,6 +1,13 @@
 # Hi! 👋 I'm Alexandr, Python QA Automation Engineer
 QA Engineer since 2020
 
+### :mortar_board: Education
+
+<table width="100%" border='0'>
+    <tr><td width="10%" valign="bottom"><img src="icons/mephi_logo.jpeg"></td><td valign="middle">National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)</br>Faculty of Physics and Technology</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
+</table>
+
 ### *Welcome to my repositories!*
 
 ## Hard skills:
