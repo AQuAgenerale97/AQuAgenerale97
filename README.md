@@ -33,5 +33,5 @@ QA Engineer since 2020
 </table>
 
 <!--
-**ponomarev-iv1986/ponomarev-iv1986** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AQuAgenerale97/AQuAgenerale97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
