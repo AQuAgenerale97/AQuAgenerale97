@@ -4,7 +4,7 @@ QA Engineer since 2020
 ### :mortar_board: Education
 
 <table width="100%" border='0'>
-    <tr><td width="10%" valign="bottom"><img src="icons/mephi_logo.jpeg"></td><td valign="middle">National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)</br>Institute of Cyber Intelligence Systems</td></tr>
+    <tr><td width="10%" valign="bottom"><img src="icons/mephi_logo.jpeg"></td><td valign="middle">National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)</br>Institute of Cyber Intelligence Systems</td><td valign="middle">National Research Nuclear University MEPhI (Moscow Engineering Physics Institute)</br>Institute of Cyber Intelligence Systems</td></tr>
     <tr><td width="10%" valign="bottom"><img src="icons/qa_guru_logo.svg"></td><td valign="middle">QA Guru</br>Автоматизация тестирования на Python</td></tr>
 </table>
 
