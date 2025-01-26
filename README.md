@@ -1,4 +1,5 @@
 # Hi! 👋 I'm Alexandr, Python QA Automation Engineer
+QA Engineer since 2020
 
 ### *Welcome to my repositories!*
 
